@@ -80,7 +80,7 @@ span.psw {
 	background: rgb(0,0,0);
     background: rgba(0,0,0,0.1);
     margin: 5% auto 20% auto; /* 5% from the top, 15% from the bottom and centered */
-    width: 500px;
+    width: 430px;
     height: 80%; /* Could be more or less, depending on screen size */
 }
 /* The Close Button (x) */
