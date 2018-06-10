@@ -210,4 +210,9 @@ h1{
 .loginbox11 a:hover{
   color: #ffc107;
 }
-
+select{
+  margin: 10% auto 20% auto;
+}
+.1{
+  margin-top: -50px;
+}
