@@ -604,4 +604,9 @@ textarea.input100 {
     transform: scale(1.1);
   }
 }
+.1{
+border: 1px solid #ed4759;
+border-radius: 50px;
+background-color: #ed4759;
+}
 
